@@ -23,9 +23,9 @@ cd kodluyoruzilkrepo
 code
 ```
 
-##Contributing
+## Contributing
 Pull requestler kabul edilir. Buyuk degisiklikler icin, lutfen once neyi degistirmek istediginizi tartismak icin bir konu aciniz.
 
 
-##License
+## License
 [MIT](https://choosealicense.com/licenses/mit/)
